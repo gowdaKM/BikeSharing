@@ -47,4 +47,4 @@ Steps involved in Multiple Linear Regression
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by @gowdaKM- feel free to contact me!
